@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Dinesh Silwal</h1>
-<h3 align="center">A passionate full-stack developer from Nepal</h3>
+<h3 align="center">A Software Developerfrom Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh-silwal&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-silwal" /> </p>
 
@@ -17,8 +17,8 @@
 - 📫 How to reach me **dineshsilwal855@gmail.com**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<https://medium.com/wesionary-team/environment-variable-configuration-in-your-golang-project-using-viper-4e8289ef664d -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
