@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Dinesh Silwal</h1>
-<h3 align="center">A Software Developerfrom Nepal</h3>
+<h3 align="center">A Software Developer From Nepal</h3>
 
 - 📝 I regularly write articles on https://dinesh-silwal.medium.com/
 - 💬 Ask me about react, typescript, Golang.
