@@ -4,21 +4,15 @@
 <h1 align="center">Hi 👋, I'm Dinesh Silwal</h1>
 <h3 align="center">A Software Developerfrom Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh-silwal&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-silwal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh-silwal" alt="dinesh-silwal" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📝 I regularly write articles on [https://medium.com/@dinesh.silwal](https://medium.com/@dinesh.silwal)
-
+- 📝 I regularly write articles on https://dinesh-silwal.medium.com/
 - 💬 Ask me about **react, typescript, Golang,**
 
-- 📫 How to reach me **dineshsilwal855@gmail.com**
+- 📫 How to reach me dineshsilwal855@gmail.com
 
 ### Blogs posts
-<https://medium.com/wesionary-team/environment-variable-configuration-in-your-golang-project-using-viper-4e8289ef664d -->
-
+- https://medium.com/wesionary-team/environment-variable-configuration-in-your-golang-project-using-viper-4e8289ef664d
+- https://medium.com/wesionary-team/the-journey-from-callback-to-async-await-as-a-front-end-developer-9e446e914ddf
+- https://medium.com/wesionary-team/automatic-reloading-in-go-36c4c4db2c8
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
